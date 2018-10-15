@@ -1,0 +1,18 @@
+/**
+ * physicalExaminationSaveConstants Constants
+ *
+ * @package                ILD INDIA REGISTRY
+ * @subpackage             physicalExaminationSaveConstants
+ * @category               Constants
+ * @DateOfCreation         25 June 2018
+ * @ShortDescription       This is responsible for Patient physical Examination action names
+ */
+export const physicalExaminationSaveConstants = {
+    PATIENT_PHYSICAL_EXAMINATION_DATA_REQUEST        			: 'PATIENT_PHYSICAL_EXAMINATION_DATA_REQUEST',
+    PATIENT_PHYSICAL_EXAMINATION_DATA_FAILURE        			: 'PATIENT_PHYSICAL_EXAMINATION_DATA_FAILURE',
+    PATIENT_PHYSICAL_EXAMINATION_DATA_SUCCESS        			: 'PATIENT_PHYSICAL_EXAMINATION_DATA_SUCCESS',
+    PATIENT_PHYSICAL_EXAMINATION_ADD_REQUEST        			: 'PATIENT_PHYSICAL_EXAMINATION_ADD_REQUEST',
+    PATIENT_PHYSICAL_EXAMINATION_ADD_SUCCESS        			: 'PATIENT_PHYSICAL_EXAMINATION_ADD_SUCCESS',
+    PATIENT_PHYSICAL_EXAMINATION_ADD_FAILURE        			: 'PATIENT_PHYSICAL_EXAMINATION_ADD_FAILURE',
+    PATIENT_PHYSICAL_EXAMINATION_RESET_STATE         			: 'PATIENT_PHYSICAL_EXAMINATION_RESET_STATE'
+};

@@ -1,0 +1,6 @@
+export * from './DoctorEducationDegree'
+export * from './DoctorEducationDegreeContainer'
+export * from './DoctorEducationDegreeAdd'
+export * from './DoctorEducationDegreeAddContainer'
+export * from './DoctorEducationDegreeEdit'
+export * from './DoctorEducationDegreeEditContainer'

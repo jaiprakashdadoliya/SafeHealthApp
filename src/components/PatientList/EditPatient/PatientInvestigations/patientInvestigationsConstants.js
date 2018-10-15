@@ -1,0 +1,18 @@
+/**
+ * patientInvestigationsConstants Constants
+ *
+ * @package                ILD INDIA REGISTRY
+ * @subpackage             patientInvestigationsConstants
+ * @category               Constants
+ * @DateOfCreation         25 June 2018
+ * @ShortDescription       This is responsible for Patient physical Examination action names
+ */
+export const patientInvestigationsConstants = {
+    PATIENT_INVESTIGATIONS_DATA_REQUEST : 'PATIENT_INVESTIGATIONS_DATA_REQUEST',
+    PATIENT_INVESTIGATIONS_DATA_FAILURE : 'PATIENT_INVESTIGATIONS_DATA_FAILURE',
+    PATIENT_INVESTIGATIONS_DATA_SUCCESS : 'PATIENT_INVESTIGATIONS_DATA_SUCCESS',
+    PATIENT_INVESTIGATIONS_ADD_REQUEST  : 'PATIENT_INVESTIGATIONS_ADD_REQUEST',
+    PATIENT_INVESTIGATIONS_ADD_SUCCESS  : 'PATIENT_INVESTIGATIONS_ADD_SUCCESS',
+    PATIENT_INVESTIGATIONS_ADD_FAILURE  : 'PATIENT_INVESTIGATIONS_ADD_FAILURE',
+    PATIENT_INVESTIGATIONS_RESET_STATE  : 'PATIENT_INVESTIGATIONS_RESET_STATE'
+};
